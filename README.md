@@ -1,7 +1,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -9,6 +7,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jagadeesh</h1></summary>
   </ul>
 </div>
+ 
+<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 <!--- snake -->
 <div align="center">
