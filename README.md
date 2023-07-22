@@ -101,11 +101,12 @@
 </p>
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=jagadeeshftw&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/jagadeeshftw/count.svg"/>
+  </div> 
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
