@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **Jagadeesh B** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently a Final year student at **CIT Chennai **
-- :books: My major is **Software Engineering**
+- :books: My major is **Full-Stack and DevOps Engineer**
 - :earth_asia: I'm living now in **Chennai, Tamil Nadu, India**
 - :sweat_smile: I'm an intermediate in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film
@@ -31,13 +31,13 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
+- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, Web3**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I have got a keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I have a keen interest in cloud computing. So, I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodeJS, mongoDB**
 
 - 📫 Feel free to reach me out **jagadeesh26062002@gmail.com**
 
