@@ -12,7 +12,7 @@
 - :books: My major is **Full-Stack and DevOps Engineer**
 - :earth_asia: I'm living now in **Chennai, Tamil Nadu, India**
 - :sweat_smile: I'm an intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :monocle_face: I'm interested in coding, sleeping, and watching films...
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
