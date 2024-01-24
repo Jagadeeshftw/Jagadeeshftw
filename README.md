@@ -37,7 +37,7 @@
 
 - ☁️ I have a keen interest in cloud computing. So, I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, react-native, nodeJS, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodeJS, MongoDB**
 
 - 📫 Feel free to reach me out **jagadeesh26062002@gmail.com**
 
@@ -121,4 +121,4 @@
 
 Credit: [Jagadeeshftw](https://github.com/Jagadeeshftw)
 
-Last Edited on: 30/09/2023
+Last Edited on: 24/01/2024
