@@ -7,20 +7,14 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Jagadeesh B** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently a Final year student at **CIT Chennai **
-- :books: My major is **Full-Stack and DevOps Engineer**
-- :earth_asia: I'm living now in **Chennai, Tamil Nadu, India**
-- :sweat_smile: I'm an intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching films...
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+- :credit_card: **Full Name:** Jagadeesh B <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: **Alma Mater:** Graduated from **CIT**
+- :books: **Major:** Specializing in Web3, Full-Stack Development, and DevOps
+- :earth_asia: Location: Currently residing in Chennai, Tamil Nadu, India
+- :sweat_smile: Proficiency: Intermediate in coding :penguin:
+- :monocle_face: Interests: Passionate about coding, indulging in well-deserved naps, and enjoying films...
+- :sunglasses: Favorite Quote: "It's never too late - never too late to start over, never too late to be happy."
+- ::ok_hand: Fun Fact: Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Basically, everything :point_right: Sleep.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -31,13 +25,13 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, Web3**
+- 🔭 I’m currently working on **Ethereum, Solana, Nextjs, Web3**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stacks for Scalable Applications.**
 
-- ☁️ I have a keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I have a keen interest in Block chain, So, I'm learning **Ethererum & Solana**
 
-- 💬 Ask me about **AWS, react, Docker, K8s, nodeJS, MongoDB**
+- 💬 Ask me about **Crypto currencies, bitcoin, blockchain technologies**
 
 - 📫 Feel free to reach me out **jagadeesh26062002@gmail.com**
 
