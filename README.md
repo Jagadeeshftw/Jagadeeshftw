@@ -8,32 +8,32 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: **Full Name:** Jagadeesh B <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: **Alma Mater:** Graduated from **CIT**
+- :school: **Alma Mater:** Graduated from CIT
 - :books: **Major:** Specializing in Web3, Full-Stack Development, and DevOps
-- :earth_asia: Location: Currently residing in Chennai, Tamil Nadu, India
-- :sweat_smile: Proficiency: Intermediate in coding :penguin:
-- :monocle_face: Interests: Passionate about coding, indulging in well-deserved naps, and enjoying films...
-- :sunglasses: Favorite Quote: "It's never too late - never too late to start over, never too late to be happy."
-- :ok_hand: Fun Fact: Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Basically, everything :point_right: Sleep.
+- :earth_asia: **Location:** Currently residing in Chennai, Tamil Nadu, India
+- :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
+- :monocle_face: **Interests:** Passionate about coding, indulging in well-deserved naps, and enjoying films...
+- :sunglasses: **Favorite Quote:** "The best way to predict the future is to invent it." - Alan Kay
+- :ok_hand: **Fun Fact:** Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Basically, everything :point_right: Sleep.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">The only way to do great work is to love what you do </h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Ethereum, Solana, Nextjs, Web3**
+- 🔭 **Current Projects:** Diving deep into Ethereum, Solana, Next.js, and Web3.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stacks for Scalable Applications.**
+- 🌱 **Learning Goals:** Mastering the art of assembling multiple Hyper Beast Stacks for scalable applications with the ultimate aim of creating a revolutionary cryptocurrency that **surpasses Bitcoin.**
 
-- ☁️ I have a keen interest in Block chain, So, I'm learning **Ethererum & Solana**
+- ☁️ **Passion:** Immersed in the world of blockchain, with a focus on Ethereum and Solana.
 
-- 💬 Ask me about **Crypto currencies, bitcoin, blockchain technologies**
+- 💬 **Expertise:** Feel free to ask me anything about cryptocurrencies, Bitcoin, and blockchain technologies.
 
-- 📫 Feel free to reach me out **jagadeesh26062002@gmail.com**
+- 📫 **Contact:** Don't hesitate to reach out at jagadeesh26062002@gmail.com.
 
 <!--Intro end-->
 
@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,docker,dynamodb,express,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,docker,express,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
