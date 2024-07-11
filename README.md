@@ -14,7 +14,7 @@
 - :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
 - :monocle_face: **Interests:** Passionate about coding, indulging in well-deserved naps, and enjoying films...
 - :sunglasses: **Favorite Quote:** "The best way to predict the future is to invent it." - Alan Kay
-- :ok_hand: **Fun Fact:** Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Basically, everything :point_right: Sleep.
+- :ok_hand: **Fun Fact:** Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Everything:point_right: Sleep.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -115,4 +115,4 @@
 
 Credit: [Jagadeeshftw](https://github.com/Jagadeeshftw)
 
-Last Edited on: 06/07/2024
+Last Edited on: 11/07/2024
