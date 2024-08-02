@@ -25,7 +25,7 @@
 
 <!--Intro start-->
 
-- 🔭 **Current Projects:** Diving deep into Ethereum, Solana, Next.js, and Web3.
+- 🔭 **Current Projects:** Diving deep into Ethereum, Solana, Polygon, Next.js, and Web3.
 
 - 🌱 **Learning Goals:** Mastering the art of assembling multiple Hyper Beast Stacks for scalable applications with the ultimate aim of creating a revolutionary cryptocurrency that **surpasses Bitcoin.**
 
