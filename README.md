@@ -9,7 +9,7 @@
 
 - :credit_card: **Full Name:** Jagadeesh B <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: **Alma Mater:** Graduated from CIT
-- :books: **Major:** Specializing in Web3, Full-Stack Development, and DevOps
+- :books: **Major:** Specializing in Web3 & Blockchain, Full-Stack Development, and DevOps
 - :earth_asia: **Location:** Currently residing in Chennai, Tamil Nadu, India
 - :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
 - :monocle_face: **Interests:** Passionate about coding, indulging in well-deserved naps, and enjoying films...
