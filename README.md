@@ -25,7 +25,7 @@
 
 <!--Intro start-->
 
-- 🔭 **Current Projects:** Diving deep into Ethereum, ICP, Solana, Polygon, Next.js, and Web3.
+- 🔭 **Current Projects:** Diving deep into Ethereum, ICP, Solana, Polygon, Next.js, Web3 and other L2 Solutions.
 
 - 🌱 **Learning Goals:** Mastering the art of assembling multiple Hyper Beast Stacks for scalable applications with the ultimate aim of creating a revolutionary cryptocurrency that **surpasses Bitcoin.**
 
@@ -115,4 +115,4 @@
 
 Credit: [Jagadeeshftw](https://github.com/Jagadeeshftw)
 
-Last Edited on: 25/08/2024
+Last Edited on: 03/09/2024
