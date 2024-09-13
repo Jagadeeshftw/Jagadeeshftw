@@ -31,7 +31,7 @@
 
 - ☁️ **Passion:** Immersed in the world of blockchain, with a focus on Ethereum and Solana.
 
-- 💬 **Expertise:** Feel free to ask me anything about cryptocurrencies, Bitcoin, and blockchain technologies.
+- 💬 **Expertise:** Feel free to ask me anything about cryptocurrencies, Bitcoin, Defi and blockchain technologies.
 
 - 📫 **Contact:** Don't hesitate to reach out at jagadeesh26062002@gmail.com.
 
