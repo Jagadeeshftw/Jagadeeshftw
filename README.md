@@ -25,11 +25,11 @@
 
 <!--Intro start-->
 
-- 🔭 **Current Projects:** Diving deep into Ethereum, ICP, Solana, Polygon, Next.js, Web3 and Defi Protocols.
+- 🔭 **Current Projects:** Diving deep into Ethereum, Starknet, Web3 and Defi Protocols.
 
 - 🌱 **Learning Goals:** Mastering the art of assembling multiple Hyper Beast Stacks for scalable applications with the ultimate aim of creating a revolutionary cryptocurrency that **surpasses Bitcoin.**
 
-- ☁️ **Passion:** Immersed in the world of blockchain, with a focus on Ethereum and Solana.
+- ☁️ **Passion:** Immersed in the world of blockchain, with a focus on Ethereum and Starknet.
 
 - 💬 **Expertise:** Feel free to ask me anything about cryptocurrencies, Bitcoin, Defi and blockchain technologies.
 
@@ -115,4 +115,4 @@
 
 Credit: [Jagadeeshftw](https://github.com/Jagadeeshftw)
 
-Last Edited on: 07/10/2024
+Last Edited on: 01/12/2024
