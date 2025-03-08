@@ -25,7 +25,7 @@
 
 <!--Intro start-->
 
-- 🔭 **Current Projects:** Diving deep into Ethereum, Starknet, Web3 and Defi Protocols.
+- 🔭 **Current Projects:** Diving deep into Ethereum, Starknet, Stellar, Web3 and Defi Protocols.
 
 - 🌱 **Learning Goals:** Mastering the art of assembling multiple Hyper Beast Stacks for scalable applications with the ultimate aim of creating a revolutionary cryptocurrency that **surpasses Bitcoin.**
 
@@ -115,4 +115,4 @@
 
 Credit: [Jagadeeshftw](https://github.com/Jagadeeshftw)
 
-Last Edited on: 01/12/2024
+Last Edited on: 08/02/2025
